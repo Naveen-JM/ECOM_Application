@@ -1,0 +1,5 @@
+host=localhost
+database=ECOM_APPLICATION
+user=root
+password=Naveen_mysql29
+port=3306
